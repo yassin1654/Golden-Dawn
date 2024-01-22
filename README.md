@@ -1,1 +1,1 @@
-# Golden-Dawn
+In 891 AD, Ethan, The King of Eldoria, a Castle in the Faroe Island, was proclaimed dead, so his son, Ethar, sat on the throne and became the king of the castle. The Vikings thought that the New King doesn't have enough experience to mentain safety inside the castle, so they desided to invade it. Fortunetly, Ethar started perparing the defence. When the vikings came, they were surprised of the defences that he perpared. Now you should help Ethar in defending the castle. 
