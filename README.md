@@ -1,6 +1,6 @@
 # Story:
 Golden Dawn:
-
+![alt text](https://images.app.goo.gl/Y5EXri6ff1n6ZsPG6)
 In 891 AD, Ethan, The King of Eldoria, a Castle in the Faroe Islands, was proclaimed dead, so his son, Ethar, sat on the throne and became the king of the castle.
 
 The Vikings thought the New King didn't have enough experience to maintain safety inside the castle, so they decided to invade it. Fortunately, Ethar started preparing the defense. When the Vikings came, they were surprised by the defenses that he prepared. The Night is getting soon, prepare your army.
