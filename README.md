@@ -3,7 +3,7 @@ Golden Dawn:
 
 In 891 AD, Ethan, The King of Eldoria, a Castle in the Faroe Islands, was proclaimed dead, so his son, Ethar, sat on the throne and became the king of the castle.
 
-The Vikings thought the New King didn't have enough experience to maintain safety inside the castle, so they decided to invade it. Fortunately, Ethar started preparing the defense. When the Vikings came, they were surprised by the defenses that he prepared. The Night is getting soon, prepare your army.
+The Vikings thought the New King didn't have enough experience to maintain safety inside the castle, so they decided to invade it. Fortunately, Ethar started preparing the defense. When the Vikings came, they organized their army, preparing to attack at night. Fortunately, the Ethar knew that there was a potential attack. The Night is getting soon, prepare your army.
 
 The Vikings started invading the castle. If the castle falls, the Vikings will start invading the whole island without any resistance. Each Night, the Vikings attack with a larger army. You must prepare your defensive army to save the castle before the Night.
 
