@@ -1069,7 +1069,7 @@
 </chunk>
   </data>
  </layer>
- <layer id="13" name="mountain floors 2" width="48" height="64">
+ <layer id="13" name="mountain floors 2" width="48" height="64" locked="1">
   <data encoding="csv">
    <chunk x="16" y="16" width="16" height="16">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -1156,7 +1156,7 @@
  <layer id="9" name="mountain 4" width="48" height="64" locked="1">
   <data encoding="csv"/>
  </layer>
- <layer id="5" name="details" width="48" height="64">
+ <layer id="5" name="details" width="48" height="64" locked="1">
   <data encoding="csv">
    <chunk x="0" y="0" width="16" height="16">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
